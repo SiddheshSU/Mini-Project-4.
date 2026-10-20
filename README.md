@@ -322,7 +322,7 @@ By integrating AWS, Terraform, Ansible, Docker, Flask, and Nginx, the project pr
 
 ## Author
 
-**Meet Yogeshkumar Doshi**
+**Siddhesh Ashok Sonawane**
 
 Engineering Student
 
